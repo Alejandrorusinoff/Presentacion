@@ -1,0 +1,106 @@
+#estilo {
+    background-color:rgb(236, 225, 236);
+}
+
+#container {
+    margin: 1% auto;
+    width: 95%;
+}
+
+nav {
+    border-radius: 5px;
+}
+
+#ubicacion {
+    margin-left: 55%;
+}
+
+.selfie {
+    display: block;
+    border-radius: 50%;
+    width: 20%;
+    margin: 0 auto;
+}
+
+.recuadro {
+    background-color: thistle;
+    border-radius: 5px;
+    padding: 2% 0;
+    text-align: center;
+}
+
+.recuadro2 {
+    background-color: thistle;
+    border-radius: 5px 5px 0 0;
+    padding: 2% 0;
+    text-align: center;
+}
+
+.recuadro3 {
+    background-color: thistle;
+    border-radius: 0 0 5px 5px;
+    padding: 2% 0;
+    text-align: center;
+}
+
+#margen {
+    margin: 1% 0;
+}
+
+h2 {
+    text-align: center;
+    padding-top: 2%;
+}
+
+p {
+    text-align: justify;
+}
+
+form > div {
+    margin: 2%;
+    border-radius: 5px;
+}
+
+input {
+    display: block;
+    width: 100%;
+}
+
+label {
+    width: 100%;
+}
+
+textarea {
+    display: block;
+    width: 100%;
+    height: 500%;
+}
+
+#enviar {
+    width: max-content;
+    text-align: center;
+}
+
+.justificado {
+    text-align: center;
+}
+
+.icono {
+    margin-left: 4%;
+    font-size: 250%;
+    text-align: center;
+    width: 80%;
+}
+
+.aaa {
+    display: inline-block;
+}
+
+.bbb {
+    text-align: center;
+}
+
+.fotos {
+    width: 80%;
+    border-radius: 5px;
+}
